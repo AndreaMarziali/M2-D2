@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Lexend+Deca:wght@300&display=swap');
+
+h1 {
+    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+    color:black;
+}
+
+p {
+color: green;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+img {
+padding: 9em;
+}
+
+div {
+background: black;
+padding: 5em;
+border-radius: 2em;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 2em;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+nav {
+background: black;
+padding: 0.5em;
+border-radius: 2em;
+}
